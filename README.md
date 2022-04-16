@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pran-28
 - 👀 I’m interested in ...python, ...C++, JAVA ... ..c#
-- 🌱 I’m currently learning ...Web Development
+- 🌱 I’m currently learning ...Web Development... React,Redux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
